@@ -1,2 +1,3 @@
 # ts-webscraper
- typescript-based webscaper
+
+Typescript-based webscaper to download images from specific websites.
