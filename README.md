@@ -1,3 +1,7 @@
 # ts-webscraper
 
-Typescript-based webscaper to download images from specific websites.
+Typescript-based webscaper that downloads images.
+
+### How to run
+- Install packages with `npm ci`
+- Run with `npm run dev`
